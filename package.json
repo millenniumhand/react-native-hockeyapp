@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/slowpath/react-native-hockeyapp"
+    "url": "git+https://github.com/slowpath/react-native-hockeyapp.git"
   },
   "bugs": {
     "url": "https://github.com/slowpath/react-native-hockeyapp/issues"
@@ -31,5 +31,31 @@
     "react-native": ">= 0.14",
     "invariant": "^2.2.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "5dca6e7457f3dbe1b73b2fd7a7f30aa8fa991a7a",
+  "_id": "react-native-hockeyapp@0.4.2",
+  "_shasum": "48417d771279f56975f8ca1c2600a222c9102d4d",
+  "_from": "react-native-hockeyapp@>=0.4.1 <0.5.0",
+  "_npmVersion": "3.4.1",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "martincik",
+    "email": "ladislav.martincik@gmail.com"
+  },
+  "dist": {
+    "shasum": "48417d771279f56975f8ca1c2600a222c9102d4d",
+    "tarball": "https://registry.npmjs.org/react-native-hockeyapp/-/react-native-hockeyapp-0.4.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "martincik",
+      "email": "ladislav.martincik@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-hockeyapp-0.4.2.tgz_1466056671259_0.21228581317700446"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-hockeyapp/-/react-native-hockeyapp-0.4.2.tgz"
 }
